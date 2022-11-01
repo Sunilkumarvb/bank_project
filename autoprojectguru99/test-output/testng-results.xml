@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-16T13:04:00 IST" name="Default suite" finished-at="2022-10-16T13:05:31 IST" duration-ms="90453">
+    <groups>
+    </groups>
+    <test started-at="2022-10-16T13:04:00 IST" name="Default test" finished-at="2022-10-16T13:05:31 IST" duration-ms="90453">
+      <class name="autoprojectguru99.Day10">
+        <test-method is-config="true" signature="setup()[pri:0, instance:autoprojectguru99.Day10@6d4e5011]" started-at="2022-10-16T13:04:00 IST" name="setup" finished-at="2022-10-16T13:05:17 IST" duration-ms="76501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Emails()[pri:0, instance:autoprojectguru99.Day10@6d4e5011]" started-at="2022-10-16T13:05:17 IST" name="Emails" finished-at="2022-10-16T13:05:31 IST" duration-ms="13769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emails -->
+      </class> <!-- autoprojectguru99.Day10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
